@@ -9,7 +9,7 @@ public class EventosController {
 	
 	@RequestMapping("/eventos/form")
 	public String form() {
-		return "formEventos";
+		return "formEvento";
 	}
 	
 
